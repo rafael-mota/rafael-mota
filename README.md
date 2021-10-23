@@ -5,6 +5,12 @@
 - 📫 Como me encontrar:
 - rafael.f.s.mota@gmail.com | 11 96982-3675
 
+<div style='display: inline_block'><br>
+  <a href="mailto:rafael.f.s.mota@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt='Gmail' align='center'></a>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt='LinkedIn' align='center'>
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt='Whatsapp' align='center'>
+</div>
+
 Skills:
 <div style='display: inline_block'><br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt='HTML 5' align='center' height=40' width='40'>
