@@ -1,14 +1,12 @@
 ### Hi there 👋
 
--  Estudando e evoluindo sempre 🚀
+Estudando e evoluindo sempre 🚀
  
-- 📫 Como me encontrar:
-- rafael.f.s.mota@gmail.com | 11 96982-3675
-
+📫 Como me encontrar:
 <div style='display: inline_block'><br>
   <a href="mailto:rafael.f.s.mota@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt='Gmail' align='center'></a>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt='LinkedIn' align='center'>
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt='Whatsapp' align='center'>
+  <a href="https://www.linkedin.com/in/rafaelfsmota/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt='LinkedIn' align='center'></a>
+  <a href="https://api.whatsapp.com/send?phone=5511969823675"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt='Whatsapp' align='center'></a>
 </div>
 
 Skills:
