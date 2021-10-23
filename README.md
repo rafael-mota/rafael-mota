@@ -4,7 +4,6 @@ Estudando e evoluindo sempre 🚀
  
 <b>🔗 Como me encontrar:</b>
 <p>
- ----------------------------------------------------------------------------
   <a href="mailto:rafael.f.s.mota@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt='Gmail' align='center'></a>
   <a href="https://www.linkedin.com/in/rafaelfsmota/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt='LinkedIn' align='center'></a>
   <a href="https://api.whatsapp.com/send?phone=5511969823675"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt='Whatsapp' align='center'></a>
@@ -12,7 +11,6 @@ Estudando e evoluindo sempre 🚀
 <br>
 <b>🛠️ Habilidades e Ferramentas:</b>
 <p>
- ----------------------------------------------------------------------------
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt='HTML 5' align='center' height=40' width='40'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt='CSS' align='center' height=40' width='40'>
   <img src="https://user-images.githubusercontent.com/86388504/137411546-9b3f06bc-3fba-44c3-8325-d7c8a7649368.png" alt='Javascript' align='center' height=40' width='40'>
