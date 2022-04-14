@@ -9,7 +9,8 @@ Estudando e evoluindo sempre 🚀
   <a href="https://api.whatsapp.com/send?phone=5511969823675"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt='Whatsapp' align='center'></a>
 </p>
 <br>
-<b style="margin-bottom:30px">🛠️ Habilidades e Ferramentas:</b>
+<b>🛠️ Habilidades e Ferramentas:</b>
+<br>
 <br>
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt='HTML 5' align='center' height=40' width='40'>
