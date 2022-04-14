@@ -11,7 +11,6 @@ Estudando e evoluindo sempre 🚀
 <br>
 <b>🛠️ Habilidades e Ferramentas:</b>
 <br>
-<br>
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt='HTML 5' align='center' height=40' width='40'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt='CSS' align='center' height=40' width='40'>
