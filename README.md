@@ -18,4 +18,5 @@ Estudando e evoluindo sempre 🚀
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt='Python 3' align='center' height=40' width='40'>
   <img src="https://user-images.githubusercontent.com/86388504/137411314-92ba62cb-ee48-45b5-989d-9299c861b11c.png" alt="Git" align='center' height=40' width='40'>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bash/bash-original.svg" alt="Bash" align='center' height=40' width='40'>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" alt='Bootstrap' align='center' height=40' width='40'>
 </p>
