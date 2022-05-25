@@ -11,7 +11,7 @@ Estudando e evoluindo sempre 🚀
 <br>
 <b>🛠️ Habilidades e Ferramentas:</b>
 <br>
-<div>
+<div style="padding: 10px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt='HTML 5' align='center' height=40' width='40'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt='CSS' align='center' height=40' width='40'>
   <img src="https://user-images.githubusercontent.com/86388504/137411546-9b3f06bc-3fba-44c3-8325-d7c8a7649368.png" alt='Javascript' align='center' height=40' width='40'>
