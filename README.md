@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-Estudando e evoluindo sempre 🚀
+Tenho 12 anos de experiência na area de tecnologia, aplicando soluções enquanto forneço serviços de TI. 
+
+- Atualmente me aprofundando em Desenvolvimento Full Stack.
+- Presto serviços em meu laboratório de hardware localizado em São Paulo.
+- Entusiasta de Eletrônica e Astronomia.  
  
 <h4>🛠️ Habilidades e Ferramentas:</h4>
 <div>
