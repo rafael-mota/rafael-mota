@@ -2,13 +2,13 @@
 
 Estudando e evoluindo sempre 🚀
  
-<b>🔗 Como me encontrar:</b>
-<p>
+<h4>🔗 Como me encontrar:</h4>
+<div>
   <a href="mailto:rafael.f.s.mota@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt='Gmail' align='center'></a>
   <a href="https://www.linkedin.com/in/rafaelfsmota/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt='LinkedIn' align='center'></a>
   <a href="https://api.whatsapp.com/send?phone=5511969823675"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt='Whatsapp' align='center'></a>
-</p>
-<br>
+</div>
+
 <h4>🛠️ Habilidades e Ferramentas:</h4>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt='HTML 5' align='center' height=40' width='40'>
