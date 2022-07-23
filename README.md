@@ -17,6 +17,8 @@ Tenho 12 anos de experiência na area de tecnologia, aplicando soluções enquan
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt='Python 3' align='center' height=40' width='40'>
   <img src="https://user-images.githubusercontent.com/86388504/137411314-92ba62cb-ee48-45b5-989d-9299c861b11c.png" alt="Git" align='center' height=40' width='40'>
 </div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg" alt="PHP" align='center' height=40' width='40'>
+</div>
 <h4>🔗 Como me encontrar:</h4>
 <div>
   <a href="mailto:rafael.f.s.mota@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt='Gmail' align='center'></a>
