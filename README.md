@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Tenho 12 anos de experiência na area de tecnologia, aplicando soluções enquanto forneço serviços de TI. 
+Tenho 12 anos de experiência na area de tecnologia, aplicando soluções de TI. 
 
 - Atualmente me aprofundando em Desenvolvimento Full Stack.
 - Presto serviços em meu laboratório de hardware localizado em São Paulo.
